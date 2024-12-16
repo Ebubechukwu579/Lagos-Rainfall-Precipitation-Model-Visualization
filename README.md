@@ -1,0 +1,2 @@
+# Lagos-Rainfall-Precipitation-Model-Visualization
+This project focuses on the visual modelling of rainfall precipitation patterns and distribution in Lagos state Nigeria. Over the years, Lagos state has struggled with the effects of intense and destructive rainfall patterns. This can be related to the impact of anthropogenic activities like industrialization leading to change in rainfall patterns
